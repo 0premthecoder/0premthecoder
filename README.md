@@ -95,5 +95,6 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=coderyoboy&theme=radical" alt="Layout with last medium posts"  />
 </div>
- [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=pahlevikun)
+
+### [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=pahlevikun)
 ###
