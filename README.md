@@ -96,7 +96,7 @@
 ###
 
 <div align="center">
-  <img src="https://medium-proile.vercel.app/" alt="Layout with last medium posts" href="https://medium.com/@coderyoboy/artificial-intelligence-shaping-the-present-and-empowering-the-future-c1895a0d9d5f" />
+  <img src="https://medium-proile.vercel.app/" alt="Layout with last medium posts"  />
 </div>
 
 ###
