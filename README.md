@@ -85,7 +85,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=0premthecoder&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=0premthecoder&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"
+  />
 </div>
 
 ###
@@ -95,7 +96,7 @@
 ###
 
 <div align="center">
-  <img src="https://medium-proile.vercel.app/" alt="Layout with last medium posts"  />
+  <img src="https://medium-proile.vercel.app/" alt="Layout with last medium posts" href="https://medium.com/@coderyoboy/artificial-intelligence-shaping-the-present-and-empowering-the-future-c1895a0d9d5f" />
 </div>
 
 ###
