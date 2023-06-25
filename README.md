@@ -1,8 +1,15 @@
+
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"  />
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0premthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="0premthecoder" /> </p>
-
+###
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0premthecoder&theme=dracula&row=4&column=3" alt="0premthecoder" /></a> </p>
 
 - 🔭 I’m currently working on [Ai Chat Bot](https://github.com/0premthecoder/Ai-Discord-Chatbot)
