@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0premthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="0premthecoder" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0premthecoder" alt="0premthecoder" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0premthecoder&theme=dracula&row=2&column=3" alt="0premthecoder" /></a> </p>
 
 - 🔭 I’m currently working on [Ai Chat Bot](https://github.com/0premthecoder/Ai-Discord-Chatbot)
 
