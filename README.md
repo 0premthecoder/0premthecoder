@@ -50,4 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0premthecoder&show_icons=true&locale=en&theme=dracula" alt="0premthecoder" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0premthecoder&theme=dracula" alt="0premthecoder" /></p>
+![img](https://github-readme-streak-stats.herokuapp.com/?user=0premthecoder&theme=dracula)
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=0premthecoder&theme=dracula -->
