@@ -32,8 +32,6 @@
 - 📝 I regularly write articles on [https://medium.com/@coderyoboy](https://medium.com/@coderyoboy)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0premthecoder&show_icons=true&locale=en&layout=compact&theme=dracula" alt="0premthecoder" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0premthecoder&theme=dracula" alt="0premthecoder" /></p>
 <!-- [img](https://github-readme-streak-stats.herokuapp.com/?user=0premthecoder&theme=dracula) -->
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=0premthecoder&theme=dracula -->
