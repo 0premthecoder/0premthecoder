@@ -23,7 +23,7 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
-- 🔭 I’m currently working on [Ai Chat Bot](https://github.com/0premthecoder/Ai-Discord-Chatbot)
+- 🔭 I’m currently working on [Motion](https://github.com/0premthecoder/Motion)
 
 - 🌱 I’m currently learning **Ai Techs**
 
