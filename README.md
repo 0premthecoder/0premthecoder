@@ -21,8 +21,4 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
-- 👨‍💻 All of my projects are available at [https://github.com/0premthecoder/](https://github.com/0premthecoder/)
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0premthecoder&theme=dracula" alt="0premthecoder" /></p>
-<!-- [img](https://github-readme-streak-stats.herokuapp.com/?user=0premthecoder&theme=dracula) -->
-<!-- https://github-readme-streak-stats.herokuapp.com/?user=0premthecoder&theme=dracula -->
+- 👨‍💻 I don't know who am i?
