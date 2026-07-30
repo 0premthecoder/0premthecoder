@@ -18,4 +18,6 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
-- 👨‍💻 I don't know who am i?
+- A Tech enthusiast
+- Who loves to Broke things in good way
+- I mean Doing things in Different way yet Better
